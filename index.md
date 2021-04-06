@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Try pages created for testing GitHub Pages feature. I believe it can make our workflow easier.
+This pages created for testing GitHub Pages feature. I believe it can make our workflow easier.
 
 ### Markdown
 
